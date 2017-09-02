@@ -1,5 +1,5 @@
 import numpy as np 
-from numpy.linalg import inv
+from numpy.linalg import inv\
 
 
 # solve a non_linear system of equations g_1(x)=0 .... g_M(x)=0 
